@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://keebtype.com/">
+    <img src="https://github.com/nguyricky/keebtype/blob/main/src/assets/Banner.jpg" alt="KeebType Banner">
   </a>
 </p>
 
