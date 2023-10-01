@@ -8,23 +8,23 @@ const Footer = () => {
         <div className="col-span-1 md:col-span-3 min-h-[8rem] w-full py-5 md:py-10">
           <div className="flex flex-col md:flex-row justify-between items-center pt-5 md:pt-8">
             <div className="flex flex-row">
-                <div className="mb-3 mr-3 md:mb-0 md:mr-3 text-center md:text-left">
-                    <a href="https://ko-fi.com/rickynguyen">
-                        <p className="text-secondary hover:text-accent text-sm md:text-md">
+                <div className="mb-3 mr-3 md:mb-0 md:mr-4 text-center md:text-left">
+                  <a href="https://ko-fi.com/rickynguyen">
+                      <p className="text-secondary hover:text-accent text-sm md:text-[12px]">
                         <FontAwesomeIcon icon={faHeart} className="icon" /> Support
-                        </p>
-                    </a>
+                      </p>
+                  </a>
                 </div>
-                <div className="mb-3 mr-3 md:mb-0 md:mr-3 text-center md:text-left">
-                    <a href="https://github.com/nguyricky/keebtype">
-                        <p className="text-secondary hover:text-accent text-sm md:text-md">
+                <div className="mb-3 mr-3 md:mb-0 md:mr-4 text-center md:text-left">
+                  <a href="https://github.com/nguyricky/keebtype">
+                      <p className="text-secondary hover:text-accent text-sm md:text-[12px]">
                         <FontAwesomeIcon icon={faCode} className="icon" /> GitHub
-                        </p>
-                    </a>
+                      </p>
+                  </a>
                 </div>
             </div>
             <div className="text-center md:text-right">
-              <p className="text-secondary text-sm md:text-md">
+              <p className="text-secondary text-sm md:text-[12px]">
                 GNU 2023 © Ricky Nguyen
               </p>
             </div>
