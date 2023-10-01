@@ -25,7 +25,7 @@ const Footer = () => {
             </div>
             <div className="text-center md:text-right">
               <p className="text-secondary text-sm md:text-md">
-                Copyright © 2023 - All right reserved by Ricky Nguyen
+                GNU 2023 © Ricky Nguyen
               </p>
             </div>
           </div>
