@@ -29,4 +29,4 @@ keebtype is a [GNU-licensed](https://www.gnu.org/licenses/gpl-3.0.en.html) softw
 
 ## Support
 
-Please feel free to [donate](https://ko-fi.com/rickynguyen), anything is appreciated to support further development!
+Feel free to [donate](https://ko-fi.com/rickynguyen), and know that every contribution goes a long way in supporting our continued development!
