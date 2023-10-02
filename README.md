@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-<h2></h2>
-<div align="left">
-  <p>Discover the world of keebtype, a typing website that offers an exceptional typing experience wrapped in a stylish and minimalist design. Embark on a typing journey where you can challenge yourself, track your progress, and effortlessly boost your typing speed.</p>
-</div>
+## What is keebtype?
+
+Keebtype combines an elegant and minimalist aesthetic with a top-notch typing experience. Dive into a world where you can not only challenge your skills but also monitor your growth and effortlessly enhance your typing speed. Join me on a journey towards typing excellence.
