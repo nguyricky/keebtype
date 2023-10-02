@@ -15,6 +15,14 @@
 
 Keebtype combines an elegant and minimalist aesthetic with a top-notch typing experience. Dive into a world where you can not only challenge your skills but also monitor your growth and effortlessly enhance your typing speed. Join me on a journey towards typing excellence.
 
+## Inspiration
+
+keebtype draws significant inspiration from the following projects:
+
+  - [`monkeytype`](https://github.com/monkeytypegame/monkeytype)
+  - [`aesthetic typer`](https://github.com/Evgastap/aesthetic-typer)
+  - [`typings`](https://github.com/briano1905/typings)
+
 ## License
 
 keebtype is a [GNU-licensed](https://www.gnu.org/licenses/gpl-3.0.en.html) software by [Ricky Nguyen](https://github.com/nguyricky)
