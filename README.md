@@ -26,3 +26,7 @@ keebtype draws significant inspiration from the following projects:
 ## License
 
 keebtype is a [GNU-licensed](https://www.gnu.org/licenses/gpl-3.0.en.html) software by [Ricky Nguyen](https://github.com/nguyricky)
+
+## Support
+
+Please feel free to [donate](https://ko-fi.com/rickynguyen), anything is appreciated to support further development!
