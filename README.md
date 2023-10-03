@@ -24,6 +24,7 @@ keebtype draws significant inspiration from the following projects:
   - [`monkeytype`](https://github.com/monkeytypegame/monkeytype)
   - [`aesthetic typer`](https://github.com/Evgastap/aesthetic-typer)
   - [`typings`](https://github.com/briano1905/typings)
+  - [`eletypes`](https://github.com/gamer-ai/eletypes-frontend)
 
 ## License
 
