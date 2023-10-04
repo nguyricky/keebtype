@@ -1,4 +1,4 @@
-import MainLogo from "../../assets/LogoText.svg"
+import MainLogo from "../../../public/LogoText.svg"
 
 const NavBar = () => {
     return (
