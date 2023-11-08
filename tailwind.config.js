@@ -8,10 +8,10 @@ export default {
     themes: [
       {
         mytheme: {
-          "primary": "#EEBBC3",
-          "secondary": "#B8C1EC",
-          "accent": "#ffffff",
-          "base-100": "#232946",
+          "primary": "#CEE6F3",
+          "secondary": "#EEEEEE",
+          "accent": "#CEE6F3",
+          "base-100": "#222831",
         }
       },
     ],
