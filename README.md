@@ -7,8 +7,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
 </p>
@@ -30,6 +31,12 @@ keebtype draws significant inspiration from the following projects:
 
 keebtype is a [GNU-licensed](https://www.gnu.org/licenses/gpl-3.0.en.html) software by [Ricky Nguyen](https://github.com/nguyricky)
 
+## Collaborators
+
+<a href="https://github.com/nguyricky/keebtype/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nguyricky/keebtype" />
+</a>
+
 ## Support
 
-Feel free to [donate](https://ko-fi.com/rickynguyen), and know that every contribution goes a long way in supporting my continued development!
+Feel free to [donate](https://ko-fi.com/rickynguyen), and know that every contribution goes a long way in supporting the continued development!
