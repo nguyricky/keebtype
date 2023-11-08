@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Space+Mono&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
     html {
-      font-family: monospace, system-ui, sans-serif;
+      font-family: 'IBM Plex Mono', monospace, system-ui, sans-serif;
     }
 }
