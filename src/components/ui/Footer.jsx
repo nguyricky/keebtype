@@ -10,21 +10,21 @@ const Footer = () => {
             <div className="flex flex-row">
                 <div className="mb-3 mr-3 md:mb-0 md:mr-4 text-center md:text-left">
                   <a href="https://ko-fi.com/rickynguyen">
-                      <p className="text-secondary hover:text-accent text-sm md:text-[13px]">
+                      <p className="text-secondary hover:text-accent text-sm md:text-[13px] tracking-wide">
                         <FontAwesomeIcon icon={faMoneyBill1Wave} className="icon" /> Support
                       </p>
                   </a>
                 </div>
                 <div className="mb-3 mr-3 md:mb-0 md:mr-4 text-center md:text-left">
                   <a href="https://github.com/nguyricky/keebtype">
-                      <p className="text-secondary hover:text-accent text-sm md:text-[13px]">
+                      <p className="text-secondary hover:text-accent text-sm md:text-[13px] tracking-wide">
                         <FontAwesomeIcon icon={faCode} className="icon" /> GitHub
                       </p>
                   </a>
                 </div>
             </div>
             <div className="text-center md:text-right">
-              <p className="text-secondary text-sm md:text-[13px]">
+              <p className="text-secondary text-sm md:text-[13px] tracking-wide">
                 GNU 2023 © Ricky Nguyen
               </p>
             </div>
