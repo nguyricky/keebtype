@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMoneyBill1Wave, faCode, faEnvelope } from "@fortawesome/free-solid-svg-icons";
-import { faDiscord, faTwitter } from "@fortawesome/free-brands-svg-icons";
+import { faDiscord, faXTwitter } from "@fortawesome/free-brands-svg-icons";
 
 const Footer = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
@@ -63,7 +63,7 @@ const Footer = () => {
                 </div>
                 <div className="mb-3 mr-3 md:mb-0 md:mr-4 text-center md:text-left">
                     <p className="text-secondary hover:text-accent text-sm md:text-[12px] tracking-wide transition ease-in-out delay-50 hover:-translate-y-0.5 hover:scale-105 duration-200 cursor-pointer">
-                      <FontAwesomeIcon icon={faTwitter} className="icon" /> Twitter
+                      <FontAwesomeIcon icon={faXTwitter} className="icon" /> X
                     </p>
                 </div>
             </div>
